@@ -1,6 +1,6 @@
 # The Desktop Cat 
 
-!(http://lexa.tatalata.com/wp-content/uploads/2008/11/screen.png)
+![The Desktop Cat](http://lexa.tatalata.com/wp-content/uploads/2008/11/screen.png)
 
 Play with a cat that follows your mouse around the screen!
 
